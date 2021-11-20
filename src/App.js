@@ -59,8 +59,6 @@ function App() {
     }
   }, [choiceOne, choiceTwo]);
 
-  console.log(cards);
-
   return (
     <div className="App">
       <h1>Magic Match</h1>
